@@ -17,8 +17,7 @@
     "dotenv": "latest",
     "express": "latest",
     "morgan": "latest",
-    "tsx": "^4.23.15",
-    "zod": "^4.6.7"
+    "tsx": "^4.23.15"
   },
   "devDependencies": {
     "@types/cors": "latest",
